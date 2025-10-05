@@ -180,17 +180,20 @@ scahs.html
 
 ```
 # OUTPUT
-![alt text](<Screenshot 2025-10-01 123858.png>)
 
-![alt text](<Screenshot 2025-10-01 124024.png>)
+<img width="1915" height="1044" alt="Screenshot 2025-10-01 123858" src="https://github.com/user-attachments/assets/b5fa21e1-63d3-47a0-8c0f-fc088b1d8bed" />
 
-![alt text](<Screenshot 2025-10-01 124106.png>)
+<img width="1920" height="1039" alt="Screenshot 2025-10-05 123655" src="https://github.com/user-attachments/assets/853ce526-fbc4-4e1e-93da-2dd60d3cba23" />
 
-![alt text](<Screenshot 2025-10-01 124159.png>)
+<img width="1914" height="1037" alt="Screenshot 2025-10-01 124106" src="https://github.com/user-attachments/assets/4127b3b3-daa8-4198-a589-5db44128f4fe" />
 
-![alt text](<Screenshot 2025-10-01 124239.png>)
 
-![alt text](<Screenshot 2025-10-01 124319.png>)
+<img width="1911" height="1017" alt="Screenshot 2025-10-01 124159" src="https://github.com/user-attachments/assets/c15b6798-cdb2-41aa-b8b4-b9f391eac90c" />
+
+<img width="1893" height="1024" alt="Screenshot 2025-10-01 124239" src="https://github.com/user-attachments/assets/795bee67-235d-46cb-b35c-cfc27614bbdd" />
+
+
+<img width="1894" height="1016" alt="Screenshot 2025-10-01 124319" src="https://github.com/user-attachments/assets/4df51165-ac62-4b86-bcc7-43984d31b17b" />
 
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
